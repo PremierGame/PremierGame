@@ -11,4 +11,6 @@
   <img src="https://sun9-68.userapi.com/impg/K0Ha4oJ97Zx-bz8oldOxs04bYv_7TH9oLLbzRw/WlSdeQ_upW4.jpg?size=1000x592&quality=96&sign=ca8c33b5ebcf144a00c013988fb8de24&type=album" width="400" />
   <img src="https://sun9-42.userapi.com/impg/NnDnIWd-_fjnm5QdVm4w15aOsu4W-_I2-4YbyQ/oiO1tQlSsqs.jpg?size=1000x592&quality=96&sign=8d6059c13dc9528e82ebdacfc82abbaf&type=album" width="400" /> 
 </p>
-<center><img src="https://sun9-58.userapi.com/impg/UsSYl-zhPehY9fGNSZ49KwsAvRTqYZ8oH0b4rQ/1tWgh-9irG8.jpg?size=600x250&quality=96&sign=0dc6e2a17c83056f71774a09f7e432a6&type=album"/></center>
+<p align="center">
+  <img src="https://sun9-58.userapi.com/impg/UsSYl-zhPehY9fGNSZ49KwsAvRTqYZ8oH0b4rQ/1tWgh-9irG8.jpg?size=600x250&quality=96&sign=0dc6e2a17c83056f71774a09f7e432a6&type=album" />
+</p>
